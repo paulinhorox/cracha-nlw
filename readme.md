@@ -14,4 +14,7 @@
     <li>JavaScript</li>
 </ul>
 
-<img src="images/demo-project.jpg">
+<img src="images/demo-project.jpg" align="center">
+
+<br>
+<p> Link funcional do projeto: https://paulinhorox.github.io/cracha-nlw/</p>
