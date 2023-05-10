@@ -17,4 +17,4 @@
 <img src="images/demo-project.jpg" align="center">
 
 <br>
-<p> Link funcional do projeto: https://paulinhorox.github.io/cracha-nlw/</p>
+<p>Link funcional do projeto: <a href="https://paulinhorox.github.io/cracha-nlw/" target="_blank">Clique aqui</a></p>
